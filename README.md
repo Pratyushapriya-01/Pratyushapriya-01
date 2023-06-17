@@ -1,8 +1,15 @@
 ### Hi there 👋
 ### I'm Pratyusha priyadarshini.
 Future Engineer. <br>
-Being a learner, I have a great passion to learn new things,skills, increase my domain of knowledge and make more experiences . I always have my eyes upon the huge area of computer science, specially on the developmental zone and look in to them in different ways of perception.
+• Being a learner, I have a great passion to explore new skills , increase my domain of knowledge and make more experiences .
 
+ • From a student having no Knowledge about coding to being a CS undergrad  with a CGPA of 9.04 , I always get curious when the things come upon Innovation, Experiment and Exploration. 
+
+• I try--fail--try again untill I made that happen and that patience make me to stand against all the hurdles and preferably working under pressure. 
+
+• Mostly I got my eyes  on the developmental zone and  domain like cloud computing is also comes under my area of interest.
+
+• Besides tech travelling, listening music and photography are my escape.
 <h1 align="center"> Tools and Technologies⚡</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="30" />
