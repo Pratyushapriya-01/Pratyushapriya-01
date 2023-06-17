@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Pratyusha priyadarshini.
-Future Engineer. <br>
+
 • Being a learner, I have a great passion to explore new skills , increase my domain of knowledge and make more experiences .
 
  • From a student having no Knowledge about coding to being a CS undergrad  with a CGPA of 9.04 , I always get curious when the things come upon Innovation, Experiment and Exploration. 
