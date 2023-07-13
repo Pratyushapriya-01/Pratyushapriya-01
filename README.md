@@ -3,9 +3,7 @@
 
 • Being a learner, I have a great passion to explore new skills , increase my domain of knowledge and make more experiences .
 
- • From a student having no Knowledge about coding to being a CS undergrad  with a CGPA of 9.04 , I always get curious when the things come upon Innovation, Experiment and Exploration. 
-
-• I try--fail--try again untill I made that happen and that patience make me to stand against all the hurdles and preferably working under pressure. 
+ • From a student having no Knowledge about coding to being a CS undergrad  with a CGPA of 9.06 , I always get curious when the things come upon Innovation, Experiment and Exploration. 
 
 • Mostly I got my eyes  on the developmental zone and  domain like cloud computing is also comes under my area of interest.
 
